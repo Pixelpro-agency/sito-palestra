@@ -36,7 +36,7 @@ export const nav = [
 
 export const banner = {
   titlePart1: 'Ottieni la parte migliore della tua giornata',
-  titlePart2: '– la troviqui',
+  titlePart2: '– la trovi qui',
   subtitle:
     'Offriamo una forma fisica perfetta in una struttura divertente, amichevole e sicura',
   textBtn: 'Iscriviti',
